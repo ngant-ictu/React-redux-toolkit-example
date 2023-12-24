@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 # Setup API 
 - https://www.freecodecamp.org/news/json-server-for-frontend-development
 
-- Note: Source followed: @SakuraDev (Youtube)
+- Note: Source followed: @SakuraDev (Youtube) 
