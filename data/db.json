@@ -1,0 +1,20 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "Learn typescript"
+    },
+    {
+      "name": "Play guitar",
+      "id": 2
+    },
+    {
+      "name": "Play guitar 5",
+      "id": 3
+    },
+    {
+      "name": "Hang out",
+      "id": 4
+    }
+  ]
+}
